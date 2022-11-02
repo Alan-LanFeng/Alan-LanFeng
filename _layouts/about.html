@@ -11,16 +11,6 @@ layout: default
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
-        <div class="social">
-          <div class="contact-icons">
-          {% include social.html %}
-          </div>
-
-          <div class="contact-note">
-            {{ site.contact_note }}
-          </div>
-
-        </div>
 
         <article>
           {% if page.profile -%}
@@ -51,14 +41,6 @@ layout: default
             {{ content }}
           </div>
 
-          {% if page.news -%}
-          <!-- News -->
-          {%- include news.html %}
-          {%- endif %}
-          {% if page.selected_papers -%}
-            <!-- Selected papers -->
-            {%- include selected_papers.html %}
-          {%- endif %}
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
@@ -69,9 +51,18 @@ layout: default
             <div class="contact-note">
               {{ site.contact_note }}
             </div>
-            
           </div>
           {%- endif %}
+
+          {% if page.news -%}
+          <!-- News -->
+          {%- include news.html %}
+          {%- endif %}
+          {% if page.selected_papers -%}
+            <!-- Selected papers -->
+            {%- include selected_papers.html %}
+          {%- endif %}
+
         </article>
 
 </div>

@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: M.S. student in Robotics, System and Control.
-
 ETH Zurich.
 
 profile:

@@ -1,13 +1,7 @@
 <div class="row">
   <div class="col-sm-3 abbr">
-    {% if entry.teaser %}
-    <!-- {%if entry.teaser == "cover_policydissect.mp4" %} 
-      <video class="video"  autoplay
-        muted loop id="teaser_video">
-      <source src="../assets/teaser/{{entry.teaser}}" type=video/mp4>
-    </video>
-    {% else %} -->
-    <img src="../assets/teaser/{{entry.teaser}}" class="teaser img-fluid z-depth-1">
+    {% if entry.preview %}
+    <img src="../assets/preview/{{entry.preview}}" class="teaser img-fluid z-depth-1">
     <!-- {% endif %} -->
     {% endif %}
     {% if entry.abbr %}

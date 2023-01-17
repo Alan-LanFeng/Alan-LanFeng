@@ -1,12 +1,8 @@
-[//]: # (---)
+---
+layout: post
+date: 2022-10-31 07:59:00-0400
+inline: true
+---
 
-[//]: # (layout: post)
+My semester thesis defense just finished! Thanks Sammy and Jie for their help! :smile:
 
-[//]: # (date: 2016-01-15 07:59:00-0400)
-
-[//]: # (inline: true)
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # (**I am looking for PhD positions all over the world** :sparkles: )

@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-10-31 07:59:00-0400
+date: 2022-11-01 07:59:00-0400
 inline: true
 ---
 
-My semester thesis defense just finished! Thanks Sammy and Jie for their help! :smile:
-
+**I am looking for PhD positions all over the world.** :sparkles: 

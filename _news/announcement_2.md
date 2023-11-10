@@ -1,12 +1,7 @@
-[//]: # (---)
+---
+layout: post
+date: 2023-10-11 07:59:00-0400
+inline: true
+---
 
-[//]: # (layout: post)
-
-[//]: # (date: 2022-11-01 07:59:00-0400)
-
-[//]: # (inline: true)
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # (I am looking for PhD positions all over the world.)
+Graduated from ETH Zurich!

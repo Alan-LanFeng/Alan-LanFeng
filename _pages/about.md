@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. student in Robotics, System and Control. ETH Zurich.
+subtitle: Research Intern. EPFL.
 
 profile:
   align: right
@@ -21,9 +21,10 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a master student at [ETH Zurich](https://ethz.ch/en.html), advised by [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). During my study at ETH, I also work remotely with [Prof. Bolei Zhou](https://boleizhou.github.io/) for the development of [MetaDriverse](https://metadriverse.github.io/). Before I came to Zurich, I did an internship at [SenseTime](https://www.sensetime.com/en) for a year, working with [Dr. Chunxiao Liu](https://scholar.google.com/citations?user=4m061tYAAAAJ). I received my bachelor degree at [Wuhan University](https://en.whu.edu.cn/).
 
-I am interested in developing Embodied AI that is capable of modeling, predicting and generating human-like behaviors.
+I earned my Master's degree in Robotics, Systems, and Control from ETH Zurich, under the guidance of [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). During my studies at ETH, I collaborated remotely with [Prof. Bolei Zhou](https://boleizhou.github.io/) in the development of [MetaDriverse](https://metadriverse.github.io/). Prior to arriving in Zurich, I completed a year-long internship at [SenseTime](https://www.sensetime.com/en), working with [Dr. Chunxiao Liu](https://scholar.google.com/citations?user=4m061tYAAAAJ). I received my Bachelor's degree from Wuhan University.
+
+My interest lies in the development of Embodied AI capable of modeling, predicting, and generating human-like behaviors.
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 

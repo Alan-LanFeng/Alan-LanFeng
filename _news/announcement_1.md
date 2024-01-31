@@ -1,12 +1,7 @@
-[//]: # (---)
+---
+layout: post
+date: 2024-01-29 07:59:00-0400
+inline: true
+---
 
-[//]: # (layout: post)
-
-[//]: # (date: 2023-01-17 07:59:00-0400)
-
-[//]: # (inline: true)
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # (Our work 'TrafficGen' was just accepted by ICRA23!)
+My thesis on [SynH2R](https://eth-ait.github.io/synthetic-handovers/) has been accepted to ICRA 2024!

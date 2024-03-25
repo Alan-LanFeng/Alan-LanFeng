@@ -5,4 +5,4 @@ inline: true
 ---
 
 Our work on scalable vehicle trajectory prediction: [UniTraj](https://arxiv.org/pdf/2403.15098.pdf) is now on Arxiv. Code is released! 🚀
-```
+

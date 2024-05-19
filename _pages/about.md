@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern. EPFL.
+subtitle: Ph.D. Student, EPFL
 
 profile:
   align: right

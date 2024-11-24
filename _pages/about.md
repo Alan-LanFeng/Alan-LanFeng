@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student, EPFL
 
 profile:
   align: right
@@ -14,9 +13,13 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I am a Ph.D. student at EPFL, advised by Prof. Alexandre Alahi. 
+Hi! I am a Ph.D. student at EPFL, advised by Prof. Alexandre Alahi.
 
-I am interested in advancing deep learning methodologies through a data-centric perspective. My research explores questions such as attributing model predictions to specific training data, selecting optimal data for diverse tasks, and modeling data distributions with generative models. I am particularly focused on applying data-centric techniques to large language models (LLMs), robotics, and computer vision, aiming to uncover insights into deep learning phenomena—including scaling laws, emergence, and in-context learning.
+I’m interested in advancing deep learning through a data-centric perspective, focusing on:  
+
+- **Attributing model predictions** to training data and optimizing data selection.  
+- **Modeling data distributions** with generative models for large-scale systems.  
+- **Applying data-centric techniques** to LLMs, robotics, and computer vision to study scaling laws, emergence, and in-context learning.  
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 

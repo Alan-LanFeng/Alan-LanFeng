@@ -19,7 +19,7 @@ I’m interested in advancing deep learning through a data-centric perspective, 
 
 - **Attributing model predictions** to training data and optimizing data selection.  
 - **Modeling data distributions** with generative models for large-scale systems.  
-- **Applying data-centric techniques** to LLMs, robotics, and computer vision to study scaling laws, emergence, and in-context learning.  
+- **Applying data-centric techniques** to LLMs, robotics, and computer vision to improve performance with less computational resources.  
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
